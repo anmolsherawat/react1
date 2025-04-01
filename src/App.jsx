@@ -6,6 +6,8 @@ const App =()=> {
       <h1>Score Board</h1>
       <h1>Score : 0</h1>
       <h1>Balls: 0</h1>
+      <button>0 run</button>
+      
     </div>
   )
 }
